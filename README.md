@@ -6,15 +6,11 @@
 I'm always learning and looking to implement new ideas.
 
 
-## 
-
 🧠 I'm currently learning Laravel
 
 💬 Ask me about PHP
 
 📫 How to reach me: 1abolfazl.soltani@gmail.com
-
-
 
 
 ## 🛠 Skills
