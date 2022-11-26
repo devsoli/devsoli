@@ -14,7 +14,7 @@ I'm always learning and looking to implement new ideas.
 
 
 ## 🛠 Skills
-PHP🐘, Laravel, HTML, CSS, JS
+PHP🐘, Laravel, HTML, CSS
 
 
 ## 🔗 Links
