@@ -10,7 +10,7 @@ I'm always learning and looking to implement new ideas.
 
 💬 Ask me about PHP
 
-📫 How to reach me: 1abolfazl.soltani@gmail.com
+📫 How to reach me: 1abolfazl.soltani1@gmail.com
 
 
 ## 🛠 Skills
