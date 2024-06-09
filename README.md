@@ -3,18 +3,21 @@
 
 
 ## 🚀 About Me
-I'm always learning and looking to implement new ideas.
+Dedicated and driven Software Engineering student with nearly one
+year of hands-on experience in the industry. Proficient in PHP and well-
+versed in the Laravel framework, demonstrating a strong ability to
+develop robust and scalable web applications. Adept at problem-
+solving, collaborating effectively within a team, and continuously
+seeking to expand technical knowledge. Eager to leverage academic
+background and practical experience to contribute to innovative
+projects and further advance software development skills.
 
-
-🧠 I'm currently learning Laravel
-
-💬 Ask me about PHP
+💬 Ask me about PHP and Laravel
 
 📫 How to reach me: 1abolfazl.soltani1@gmail.com
 
-
 ## 🛠 Skills
-PHP🐘, Laravel, HTML, CSS
+PHP🐘, Laravel, MySQL, MongoDB, Docker, Redis, HTML, CSS, Bootstrap
 
 
 ## 🔗 Links
