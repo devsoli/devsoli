@@ -5,8 +5,8 @@
 ## 🚀 About Me
 Dedicated and driven Software Engineering student with nearly one
 year of hands-on experience in the industry. Proficient in PHP Laravel framework, demonstrating a strong ability to
-develop robust and scalable web applications. Adept at problem-
-solving, collaborating effectively within a team, and continuously
+develop robust and scalable web applications. Adept at problem-solving,
+collaborating effectively within a team, and continuously
 seeking to expand technical knowledge. Eager to leverage academic
 background and practical experience to contribute to innovative
 projects and further advance software development skills.
